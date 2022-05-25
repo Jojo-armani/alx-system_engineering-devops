@@ -1,1 +1,1 @@
-PWD
+To display content of file
