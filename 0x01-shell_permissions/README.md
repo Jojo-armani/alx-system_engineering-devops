@@ -1,1 +1,1 @@
-Execute permission
+EXECUTE,read
