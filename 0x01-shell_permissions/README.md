@@ -1,1 +1,1 @@
-Prints all groups
+Change owner of file to user
