@@ -1,1 +1,1 @@
-sets mode
+Sets the mode
