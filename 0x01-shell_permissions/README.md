@@ -1,1 +1,1 @@
-Sets the mode
+Execute permission to subdirectories
