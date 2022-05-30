@@ -1,1 +1,1 @@
-command to duplicate
+delete
