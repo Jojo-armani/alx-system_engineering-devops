@@ -1,1 +1,1 @@
-delete
+counts dir and sub
