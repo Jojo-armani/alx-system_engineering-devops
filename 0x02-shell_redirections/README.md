@@ -1,1 +1,1 @@
-first 10 lines
+scrips that create and displays
