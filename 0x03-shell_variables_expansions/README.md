@@ -13,4 +13,4 @@
 12=Create a script that prints all possible combinations of two letters, except o
 13= Write a script that prints a number with two decimal places, followed by a new line.
 14= Decimal to Hexadecimal
-
+15= Write a script that reverse its input.
